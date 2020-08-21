@@ -5,6 +5,7 @@
 # VSCode
 
 # Git
+- https://github.com/Maomaobadmonkey/project-implsv.git
 
 # Installation
 - `git init`
@@ -18,10 +19,13 @@
 - Export statement
 
 # Python
-
-- Virtualenv
+- Virtualenv (Vscode: py -m pip install --user virtualenv)
 
 # Javascript
 
 - npm
 - yarn
+
+# Docs 
+- Creating virtual environments for Python: https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment
+- 
