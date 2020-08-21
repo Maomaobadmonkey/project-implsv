@@ -7,3 +7,4 @@ for letter in word:
         new_word += letter
 
 print(new_word)
+print(new_word)
