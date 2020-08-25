@@ -14,7 +14,6 @@
 - `git push`
 
 # Bash
-
 - Environment variables
 - Export statement
 
@@ -25,7 +24,16 @@
 
 - npm
 - yarn
+- npx
+
+# React 
+- Node.Js
+- Chocolatey
+- npm
+- Yarn
 
 # Docs 
 - Creating virtual environments for Python: https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment
-- 
+
+-
+
